@@ -1,0 +1,14 @@
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/bin/Debug/net8.0/KatcpClient
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/bin/Debug/net8.0/KatcpClient.deps.json
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/bin/Debug/net8.0/KatcpClient.runtimeconfig.json
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/bin/Debug/net8.0/KatcpClient.dll
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/bin/Debug/net8.0/KatcpClient.pdb
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.AssemblyInfoInputs.cache
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.AssemblyInfo.cs
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.csproj.CoreCompileInputs.cache
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.dll
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/refint/KatcpClient.dll
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.pdb
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/KatcpClient.genruntimeconfig.cache
+/home/ubuntuwsl/avn/katcp_csharp/KatcpClient/obj/Debug/net8.0/ref/KatcpClient.dll
